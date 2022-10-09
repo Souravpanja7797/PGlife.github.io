@@ -1,5 +1,2 @@
-# PGlife
-This is a website with some exciting functionality 
-
-Due to the existence of the database, it cannot be hosted on GitHub
-I will link the video . watch in Linkedln
+# PGlife.github.io
+>>>>>>> 72aebbe29077d871c13007e1531bbccff1d467d6
